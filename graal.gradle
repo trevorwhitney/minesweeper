@@ -1,0 +1,6 @@
+graal {
+  mainClass 'com.github.trevorwhitney.minesweeper.App'
+  outputName 'minesweeper'
+  graalVersion '20.2.0'
+  javaVersion '11'
+}
