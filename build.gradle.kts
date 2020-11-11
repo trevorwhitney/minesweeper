@@ -15,9 +15,9 @@ dependencies {
     implementation("info.picocli:picocli:4.1.0")
     implementation("com.google.code.findbugs:jsr305:3.0.2")
     implementation("org.projectlombok:lombok:1.18.16")
+    implementation("org.apache.commons:commons-lang3:3.11")
 
     annotationProcessor("info.picocli:picocli-codegen:4.1.0")
-//    annotationProcessor("org.projectlombok:lombok:1.18.16")
 
     testImplementation("org.assertj:assertj-core:3.12.2")
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.2")
